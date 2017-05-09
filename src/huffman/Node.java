@@ -7,7 +7,7 @@ package huffman;
 
 /**
  *
- * @author ndik
+ * @author okesip
  */
 import java.util.ArrayList;
 import java.util.List;
